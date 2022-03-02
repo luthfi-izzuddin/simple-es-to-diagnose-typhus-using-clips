@@ -61,7 +61,7 @@
     (if (= ?x 1)
         then (printout t crlf "Berdasarkan gejala yang dialami, Anda mengalami gejala penyakit Typhus. Silakan segera merujuk ke rumah sakit terdekat untuk penanganan lebih lanjut." crlf)
     ) (if (= ?x 0)
-        then (printout t crlf "Kemungkinan Anda mengalami gejala penyakit diare. Perbanyak minum air putih dan makan makanan berserat serta jika akut disarankan untuk meminum obat diare." crlf)
+        then (printout t crlf "Anda mengalami beberapa gejala penyakit Typhus. Silakan datang ke fasilitas kesehatan terdekat untuk pengecekan lebih lanjut." crlf)
     )
 )
 
